@@ -76,4 +76,4 @@ $ git push -u origin master
 
 [![screenshot](bitmap_plasma.png)](https://www.youtube.com/watch?v=7pSNEc31TOw)
 
-"*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*" - Waseem Latif
+"*The most disastrous thing that you can ever learn is your first programming language.*" - Alan Kay
